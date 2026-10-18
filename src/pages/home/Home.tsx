@@ -22,7 +22,7 @@ const LinkedinIcon = () => (
 )
 
 const projects = [
-  { number: "01", title: "Runfree · gestão de corridas", description: "Plataforma para organizadores gerenciarem múltiplos eventos, inscrições, equipes, patrocinadores e balanços. A demonstração apresenta dados fictícios em modo de consulta.", tags: ["React", "Supabase", "Eventos"], tone: "orange", url: "https://runfree.lovable.app/auth?next=%2Fdemo" },
+  { number: "01", title: "Runfree · gestão de corridas", description: "Plataforma para organizadores gerenciarem múltiplos eventos, inscrições, equipes, patrocinadores e balanços. A demonstração apresenta dados fictícios em modo de consulta.", tags: ["React", "Supabase", "Eventos"], tone: "orange", url: "https://runfree-app.vercel.app/auth?next=%2Fdemo" },
   { number: "02", title: "Acompanhamento das Eleições BR", description: "Visualização de dados eleitorais oficiais, candidatos, votos e boletins de urna em uma interface para explorar os resultados.", tags: ["Dados públicos", "Eleições", "Web"], tone: "blue", url: "https://acompanhamento-eleicoes.vercel.app/" },
   { number: "03", title: "Portfólio 2.0", description: "Uma casa digital para apresentar meu trabalho com clareza, personalidade e boas histórias.", tags: ["React", "TypeScript", "Vite"], tone: "blue", url: "https://github.com/atilamariano/portifolio-2.0" },
 ]
